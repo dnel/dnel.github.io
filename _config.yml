@@ -1,0 +1,12 @@
+# Site settings
+title: dnel's code
+
+description: > # this means to ignore newlines until "baseurl:"
+  This is the code page of dnel's GitHub site. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dnel.github.io" # the base hostname & protocol for your site
+twitter_username: isDavidNelson
+github_username:  dnel
+
+# Build settings
+markdown: kramdown
